@@ -29,7 +29,7 @@ def load_network(network_number, data_root=DATA_ROOT):
     goldstandard_path = (
         data_root.parent
         / "DREAM4_Challenge2_GoldStandards"
-        / "Size 10"
+        / "Size_10"
         / f"DREAM4_GoldStandard_InSilico_Size10_{network_number}.tsv"
     )
 
