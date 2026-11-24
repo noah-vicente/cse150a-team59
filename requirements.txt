@@ -1,6 +1,6 @@
 numpy
 pandas
 networkx
-pgmpy
+pgmpy==1.1.2
 matplotlib
 scipy
